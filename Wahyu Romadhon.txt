@@ -1,5 +1,6 @@
 G.211.20.0073 - Wahyu Romadhon - USM JAYA
 
 Universitas Semarang
-
+FakultasTeknologiInformasidanKomunikasi
 Jl. Soekarno-Hatta, TlogosariKulon
+Baris6: KotaSemarang, JawaTengah, Indonesia
