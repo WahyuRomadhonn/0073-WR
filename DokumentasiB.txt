@@ -1,11 +1,11 @@
 Contoh open source sistem operasi yang paling populer saat ini seperti berikut ini:
 
-Sistem operasi Linux
-Android oleh Google
-Open office
-Mozilla Firefox
-Firefox browser
-Pemutar media VCL
-Moodle
-ClamWin antivirus
-Sistem manajemen konten WordPress
+1. Sistem operasi Linux
+2. Android oleh Google
+3. Open office
+4. Mozilla Firefox
+5. Firefox browser
+6. Pemutar media VCL
+7. Moodle
+8. ClamWin antivirus
+9. Sistem manajemen konten WordPress
