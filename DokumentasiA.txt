@@ -1,0 +1,9 @@
+Apa Itu Open Source?
+
+Open source adalah kode sumber atau kode dasar pada sebuah software yang biasanya tersedia untuk modifikasi dapat digunakan kembali.
+
+Kode open source merupakan bagian dari software yang sebagian besar pengguna tidak pernah melihat.
+
+Siapa pun dapat memanipulasi dan mengubah software sehingga program atau aplikasi dapat bekerja.
+
+Programmer yang memiliki akses ke kode sumber program komputer dapat meningkatkan program dengan menambahkan fitur ke dalamnya atau memperbaiki bagian yang tidak berfungsi dengan benar.
